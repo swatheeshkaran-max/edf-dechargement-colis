@@ -9,7 +9,7 @@ The workbooks classify each screened vessel in six separate classes:
 
 `BG` means a vessel with an onboard crane. `NC` means a conventional vessel requiring shore lifting equipment. A vessel can appear in several cargo classes, but each row contains one cargo type only.
 
-The `Classification` sheet is the detailed table. `Vue classes` gives the six-group summary. `Synthèse` is the one-row-per-vessel register, and `Méthode` records the cargo dimensions and filters.
+The `Classification` sheet is the detailed table. `Vue classes` gives the six-group summary. `Synthèse` is the one-row-per-vessel register, and `Méthode` records the cargo dimensions and filters. `Reason for status` gives the specific reason beside each status.
 
 The screening uses the agreed cargo-only dimensions: GV 24.90 × 6.46 × 6.60 m / 580 t, PP 48.00 × 2.80 × 3.807 m / 154 t, and CE 20.00 × 9.00 × 8.00 m / 110 t. It applies berth limits of 154 m LOA, 39 m beam and 12 m draft, with a caution above 7 m draft. Clear hold/hatch width must be cargo width plus 1.00 m. Missing hatch, deck, load-rating or access data is marked `CONDITIONAL` for further verification.
 
