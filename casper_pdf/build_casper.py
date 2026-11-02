@@ -76,7 +76,8 @@ def xlsx(path,sheets):
             rsxml=[]
             for ridx,r in enumerate(rs,1):
                 body="".join(cell(v,f"{excel_col(j)}{ridx}",1 if ridx==1 else 0) for j,v in enumerate(r,1))
-                rsxml.append(f'<row r="{ridx}"{" ht=\"30\" customHeight=\"1\"" if ridx==1 else ""}>{body}</row>')
+                rowattr = ' ht="30" customHeight="1"' if ridx == 1 else ''
+                rsxml.append(f'<row r="{ridx}"{rowattr}>{body}</row>')
             content='<?xml version="1.0" encoding="UTF-8" standalone="yes"?><worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"><sheetViews><sheetView workbookViewId="0"><pane ySplit="1" topLeftCell="A2" activePane="bottomLeft" state="frozen"/></sheetView></sheetViews>'+widths+'<sheetData>'+''.join(rsxml)+'</sheetData><autoFilter ref="A1:'+excel_col(ncols)+str(len(rs))+'"/></worksheet>'
             z.writestr(f"xl/worksheets/sheet{i}.xml",content)
 def main():
