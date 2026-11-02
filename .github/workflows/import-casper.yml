@@ -4,6 +4,7 @@ on:
     paths:
       - 'casper_pdf/CASPER_SOURCES.csv'
       - 'casper_pdf/build_casper.py'
+      - 'casper_pdf/rebuild_casper_v2.py'
       - '.github/workflows/import-casper.yml'
   workflow_dispatch:
 permissions:
@@ -19,7 +20,9 @@ jobs:
         with:
           python-version: '3.12'
       - name: Download PDFs and generate workbook
-        run: python casper_pdf/build_casper.py
+        run: |
+          python casper_pdf/build_casper.py
+          python casper_pdf/rebuild_casper_v2.py
       - name: Commit all downloaded source PDFs and generated results
         if: success()
         run: |
