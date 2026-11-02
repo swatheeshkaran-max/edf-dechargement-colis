@@ -14,7 +14,7 @@ ROOT=HERE.parent
 rows=list(csv.DictReader((HERE/"CASPER_SOURCES.csv").open(encoding="utf-8")))
 CARGO=[("CE",20.0,9.0,8.0,110.0),("PP",48.0,2.8,3.807,154.0),("GV",24.9,6.46,6.6,580.0)]
 CLEAR=0.5
-OVERHEAD=0.5
+OVERHEAD=0.05
 DWCC={"9582855":3746.39,"9582867":3600,"9369514":3550,"9195731":3550,
 "9387322":3876,"1029053":3798,"9472012":3850,"9195834":4950,
 "9195901":4950,"9967548":5000}
@@ -66,7 +66,7 @@ for s in rows:
         stat="CONDITIONAL" if quantity>0 else "REJECT"
         reasons=[]
         if not hold_ok: reasons.append("0.50 m all-around envelope fails hold, overhead or hatch criteria")
-        if typ=="CE": reasons.append("Required clear height 8.50 m")
+        if typ=="CE": reasons.append("Required clear height 8.05 m")
         if typ=="PP": reasons.append("48 m contiguous free bay and bulkhead removal/position to verify")
         if typ=="GV": reasons.append("580 t concentrated loading / tanktop strengthening to verify")
         if draft is None:reasons.append("Summer draft unverified")
