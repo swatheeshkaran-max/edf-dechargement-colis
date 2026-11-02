@@ -1,0 +1,26 @@
+name: Export EPR2 existing workbook records for consolidation
+on:
+  push:
+    paths:
+      - 'scripts/export_epr2_xlsx_text.py'
+      - '.github/workflows/export-epr2-sources.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  export-source-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Export original workbook data (read only)
+        run: python scripts/export_epr2_xlsx_text.py
+      - name: Commit compact CSV extracts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add epr2_exports/
+          git diff --cached --quiet || git commit -m "Export EPR2 vessel workbook data for consolidation"
+          git push
