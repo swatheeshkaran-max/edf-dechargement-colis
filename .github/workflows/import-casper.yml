@@ -5,6 +5,7 @@ on:
       - 'casper_pdf/CASPER_SOURCES.csv'
       - 'casper_pdf/build_casper.py'
       - 'casper_pdf/rebuild_casper_v2.py'
+      - 'casper_pdf/generate_casper_hierarchy.py'
       - '.github/workflows/import-casper.yml'
   workflow_dispatch:
 permissions:
@@ -19,15 +20,18 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Install PDF rendering dependency
+        run: python -m pip install reportlab
       - name: Download PDFs and generate workbook
         run: |
           python casper_pdf/build_casper.py
           python casper_pdf/rebuild_casper_v2.py
+          python casper_pdf/generate_casper_hierarchy.py
       - name: Commit all downloaded source PDFs and generated results
         if: success()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add casper_pdf/*.pdf casper_pdf/CASPER_CLASSIFICATION.csv casper_pdf/CASPER_SYNTHESIS.csv casper_pdf/CASPER_DOWNLOAD_FAILURES.csv casper_convois_epr2.xlsx
+          git add casper_pdf/*.pdf casper_pdf/CASPER_CLASSIFICATION.csv casper_pdf/CASPER_SYNTHESIS.csv casper_pdf/CASPER_DOWNLOAD_FAILURES.csv casper_convois_epr2.xlsx hierarchie_classification_casper.pdf
           git diff --cached --quiet || git commit -m "Import 10 Casper vessel PDFs and EPR2 classification workbook"
           git push
