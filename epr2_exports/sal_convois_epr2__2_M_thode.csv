@@ -1,0 +1,16 @@
+﻿SAL Global — EPR2 cargo classification method,,,
+,,,
+Rule,Applied value / note,Source,Link
+Cargo dimensions,GV 24.90×6.46×6.60 m / 580 t; PP 48.00×2.80×3.807 m / 154 t; CE 20.00×9.00×8.00 m / 110 t.,Project cargo plan,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/PLANS%20DE%20CONVOIS%20EPR2.pdf
+Filter 1 — berth,LOA ≤154 m and beam ≤39 m. Draft is recorded but not excluded in this revision.,User instruction,
+Clearance,Cargo width + 1.00 m minimum clear width (0.50 m each side). Equal width fails.,Project rule,
+Filter 2 — hold fit,Published hold length/width/height must accept one or more identical units; no mixing or stacking assumed.,Owner fleet PDF,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf
+GV,Tanktop/hold bottom preferred; GV footprint ≈3.61 t/m². Tween deck is not preferred; local load approval required.,Project rule,
+PP,48 m continuous clear bay required; bulkhead positions and movability must be checked.,Project rule,
+CE,8 m cargo height and 10 m clear width required; tween-deck removal and structural approval must be verified.,Project rule,
+Filter 3 — structure/access,"Tween-deck removal, deck/tanktop rating, hatch access, loading/unloading access and securing remain owner/class checks when not published.",Owner/class evidence required,
+BG / NC,BG = onboard crane; NC = conventional/shore crane. BG nominal tandem SWL is compared with one cargo mass; tandem/stability/radius approval remains required.,Owner fleet PDF,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf
+Max units,Preliminary minimum of geometry and DWT ceiling; final number requires a vessel-specific loading/stability plan.,Calculation screen,
+Fuel ordering,"Fuel consumption is a tie-break only after technical fit. Where owner fuel data is not published, families are shown alphabetically and marked “Not published”.",Owner fleet data,
+Family grouping,"Same published design/specification family is grouped and color-coded. This is a technical family grouping, not a legal sister-ship certificate.",Owner fleet PDF,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf
+Status,APPROVED (ASSUMPTION) = current screen passes; CONDITIONAL = missing structural/hold evidence; HOLD = known crane/geometry problem; EXCLUDED = berth or no-fit failure.,Screening status,

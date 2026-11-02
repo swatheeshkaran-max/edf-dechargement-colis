@@ -1,0 +1,7 @@
+﻿N°,Famille,Nom du bateau,Type de navire,Classe,Nombre max de colis,Longueur (m),Largeur (m),Tirant d’eau (m),Faisabilité de grue (Oui/Non),Note,Nombre max de colis après limite de grue,Deux grues nécessaires (Oui/Non),Priorité,Navire sœur ? (Oui/Non),Lien PDF
+1,Eems Duisburg,MS Eems Duisburg,NC (navire conventionnel),CE–NC,,,,,,,,,,Non,
+2,Polarrock,MS Polarrock,NC (navire conventionnel),CE–NC,,,,,,,,,,Non,
+3,Eems Duisburg,MS Eems Duisburg,NC (navire conventionnel),PP–NC,,,,,,,,,,Non,
+4,Polarrock,MS Polarrock,NC (navire conventionnel),PP–NC,,,,,,,,,,Non,
+5,Eems Duisburg,MS Eems Duisburg,NC (navire conventionnel),GV–NC,,,,,,,,,,Non,
+6,Polarrock,MS Polarrock,NC (navire conventionnel),GV–NC,,,,,,,,,,Non,

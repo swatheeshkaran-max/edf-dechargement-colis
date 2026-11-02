@@ -1,0 +1,22 @@
+﻿Parameter,Value,Unit,Meaning / screening rule
+LOA maximum,154,m,Reject above 154 m
+Beam maximum,39,m,Reject above 39 m
+Summer draft maximum,12,m,Reject above 12 m; invalid/missing draft flagged for verification
+Draft caution threshold,7,m,Flag caution above 7 m
+Side / fore / aft clearance,0.5,m,0.5 m every horizontal side of each colis; adjacent colis have 1.0 m space
+Free overhead,0.05,m,"0.5 m unobstructed height above each colis; tanktop support below, no bottom gap"
+Cargo,Length m,Width m,Height m,Mass t
+CE,20.0,9.0,8.0,110.0
+PP,48.0,2.8,3.807,154.0
+GV,24.9,6.46,6.6,580.0
+Packing orientation,Lengthwise,Widthwise,,"No rotation, no stacking; tanktop only"
+Along count,INT(hold L / (colis L + 1 m)),,,
+Across count,INT(hold W / (colis W + 1 m)),,,
+MAX COLIS,"MIN(along × across, INT(DWCC / colis weight))",,,Requires hatch and free-height criteria
+Hatch and hold criteria,Each ≥ colis dimension + 1 m (L/W),,,Plus 0.5 m overhead; exact entry route unverified
+Tween deck,NOT DOCUMENTED,,,No verified tween dimensions; movable bulkheads are NOT tween decks
+Class NC,No certified onboard crane data,,,Shore/floating lifting required; review crane load/radius
+CONDITIONAL,Geometric fit only,,,Not evidence of approved voyage or terminal unloading
+REJECT,No underdeck fit under stated clearance,,,Deck cargo or alternate stowage unassessed
+Source PDF,GitHub blob link in Classification,,,All ten specification PDFs deposited in casper_pdf/
+NOTE,Nominal 2D rectangular packing,,,"Cribbing, corner clearances, hatch entrance, stability and cargo lashing not approved"

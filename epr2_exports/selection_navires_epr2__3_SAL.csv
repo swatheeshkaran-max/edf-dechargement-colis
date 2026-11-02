@@ -1,0 +1,59 @@
+﻿N°,Nom de la famille,Nom du bateau,Type de navire,Type de colis,Nombre max de colis,Longueur (m),Largeur (m),Tirant d’eau (m),Lien PDF,Faisabilité de grue (Oui/Non),Note,Nombre max de colis après limite de grue,Deux grues nécessaires (Oui/Non),Priorité
+1,Orca,MV Carlotta,BG (bigué),CE,5,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+2,Orca,MV Elise,BG (bigué),CE,5,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+3,Orca,MV Frida,BG (bigué),CE,5,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+4,Orca,MV Patricia,BG (bigué),CE,5,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+5,Orca,MV Vera,BG (bigué),CE,5,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+6,Type 116,MV Amoenitas,BG (bigué),CE,4,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+7,Type 116,MV Anna,BG (bigué),CE,4,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+8,Type 116,MV Calypso,BG (bigué),CE,4,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+9,Type 116,MV Caroline,BG (bigué),CE,4,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+10,Type 116,MV Hilke,BG (bigué),CE,4,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+11,Type 116,MV Imke,BG (bigué),CE,4,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+12,Type 161,MV Annemieke,BG (bigué),CE,4,151.67,20.65,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+13,Type 161A,MV Annegret,BG (bigué),CE,4,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+14,Type 161A,MV Grietje,BG (bigué),CE,4,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+15,Type 161A,MV Paula,BG (bigué),CE,4,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+16,Type 161A,MV Wiebke,BG (bigué),CE,4,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+17,Type 161B,MV Annette,BG (bigué),CE,4,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+18,Type 161B,MV Maria,BG (bigué),CE,4,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,3
+19,12K-500,MV Ind. Skipper,BG (bigué),PP,,147,22.8,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+20,12K-500,MV Ind. Song,BG (bigué),PP,,147,22.8,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+21,12K-500,MV Ind. Swift,BG (bigué),PP,,147,22.8,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+22,12K-500,MV Sophie,BG (bigué),PP,,147,22.8,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+23,12K-500,MV Svend,BG (bigué),PP,,147,22.8,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+24,Orca,MV Carlotta,BG (bigué),PP,,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+25,Orca,MV Elise,BG (bigué),PP,,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+26,Orca,MV Frida,BG (bigué),PP,,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+27,Orca,MV Patricia,BG (bigué),PP,,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+28,Orca,MV Vera,BG (bigué),PP,,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+29,Type 116,MV Amoenitas,BG (bigué),PP,,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+30,Type 116,MV Anna,BG (bigué),PP,,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+31,Type 116,MV Calypso,BG (bigué),PP,,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+32,Type 116,MV Caroline,BG (bigué),PP,,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+33,Type 116,MV Hilke,BG (bigué),PP,,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+34,Type 116,MV Imke,BG (bigué),PP,,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+35,Type 161A,MV Annegret,BG (bigué),PP,,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+36,Type 161A,MV Grietje,BG (bigué),PP,,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+37,Type 161A,MV Paula,BG (bigué),PP,,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+38,Type 161A,MV Wiebke,BG (bigué),PP,,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+39,Type 161B,MV Annette,BG (bigué),PP,,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+40,Type 161B,MV Maria,BG (bigué),PP,,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,2
+41,Orca,MV Carlotta,BG (bigué),GV,8,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+42,Orca,MV Elise,BG (bigué),GV,8,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+43,Orca,MV Frida,BG (bigué),GV,8,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+44,Orca,MV Patricia,BG (bigué),GV,8,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+45,Orca,MV Vera,BG (bigué),GV,8,149.93,27.2,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+46,Type 116,MV Amoenitas,BG (bigué),GV,6,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+47,Type 116,MV Anna,BG (bigué),GV,6,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+48,Type 116,MV Calypso,BG (bigué),GV,6,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+49,Type 116,MV Caroline,BG (bigué),GV,6,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+50,Type 116,MV Hilke,BG (bigué),GV,6,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+51,Type 116,MV Imke,BG (bigué),GV,6,133,23,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+52,Type 161,MV Annemieke,BG (bigué),GV,6,151.67,20.65,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+53,Type 161A,MV Annegret,BG (bigué),GV,6,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+54,Type 161A,MV Grietje,BG (bigué),GV,6,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+55,Type 161A,MV Paula,BG (bigué),GV,6,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+56,Type 161A,MV Wiebke,BG (bigué),GV,6,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+57,Type 161B,MV Annette,BG (bigué),GV,6,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1
+58,Type 161B,MV Maria,BG (bigué),GV,6,151.67,21.02,n/a,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,1

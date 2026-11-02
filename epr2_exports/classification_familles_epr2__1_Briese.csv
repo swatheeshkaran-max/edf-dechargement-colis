@@ -1,0 +1,42 @@
+﻿N°,Famille,Nom du bateau,Type de navire,Classe,Nombre max de colis,Longueur (m),Largeur (m),Tirant d’eau (m),Faisabilité de grue (Oui/Non),Note,Nombre max de colis après limite de grue,Deux grues nécessaires (Oui/Non),Priorité,Navire sœur ? (Oui/Non),Lien PDF
+1,5.2k DWT family,Costamar,NC (navire conventionnel),CE–NC,3,99.48,13.43,6.15,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/Costamar.pdf
+2,5.2k DWT family,Lunamar,NC (navire conventionnel),CE–NC,3,99.48,13.43,6.15,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/Lunamar.pdf
+3,ECO 9.1k family,ECO Cheyenne,NC (navire conventionnel),CE–NC,5,132.78,18.85,7,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Cheyenne.pdf
+4,ECO 9.1k family,ECO Elin,NC (navire conventionnel),CE–NC,5,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Elin.pdf
+5,ECO 9.1k family,ECO Marianne,NC (navire conventionnel),CE–NC,5,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Marianne.pdf
+6,ECO 9.1k family,ECO Talent,NC (navire conventionnel),CE–NC,5,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Talent.pdf
+7,ECO 9.1k family,ECO Titan,NC (navire conventionnel),CE–NC,5,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Titan.pdf
+8,ECO 9.1k family,ECO Treasure,NC (navire conventionnel),CE–NC,5,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Treasure.pdf
+9,ECO 9.1k family,ECO Trinity,NC (navire conventionnel),CE–NC,5,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Trinity.pdf
+10,ECO 9.1k family,ECO Triumph,NC (navire conventionnel),CE–NC,5,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Triumph.pdf
+11,ECO 9.1k family,ECO Trophy,NC (navire conventionnel),CE–NC,5,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Trophy.pdf
+12,ECO 9.1k family,ECO Trust,NC (navire conventionnel),CE–NC,5,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Trust.pdf
+13,4.938k DWT family,Aramis,NC (navire conventionnel),PP–NC,,89.98999999999999,14.8,6.65,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/Aramis.pdf
+14,4.938k DWT family,Johannes,NC (navire conventionnel),PP–NC,,89.98999999999999,14.8,6.65,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/Johannes.pdf
+15,4.938k DWT family,Monika,NC (navire conventionnel),PP–NC,,89.98999999999999,14.8,6.65,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/Monika.pdf
+16,4.938k DWT family,Treville,NC (navire conventionnel),PP–NC,,89.98999999999999,14.8,6.65,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/Treville.pdf
+17,ECO 9.1k family,ECO Cheyenne,NC (navire conventionnel),PP–NC,,132.78,18.85,7,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Cheyenne.pdf
+18,ECO 9.1k family,ECO Elin,NC (navire conventionnel),PP–NC,,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Elin.pdf
+19,ECO 9.1k family,ECO Marianne,NC (navire conventionnel),PP–NC,,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Marianne.pdf
+20,ECO 9.1k family,ECO Talent,NC (navire conventionnel),PP–NC,,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Talent.pdf
+21,ECO 9.1k family,ECO Titan,NC (navire conventionnel),PP–NC,,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Titan.pdf
+22,ECO 9.1k family,ECO Treasure,NC (navire conventionnel),PP–NC,,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Treasure.pdf
+23,ECO 9.1k family,ECO Trinity,NC (navire conventionnel),PP–NC,,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Trinity.pdf
+24,ECO 9.1k family,ECO Triumph,NC (navire conventionnel),PP–NC,,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Triumph.pdf
+25,ECO 9.1k family,ECO Trophy,NC (navire conventionnel),PP–NC,,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Trophy.pdf
+26,ECO 9.1k family,ECO Trust,NC (navire conventionnel),PP–NC,,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Trust.pdf
+27,3.67k DWT family,Anmare,NC (navire conventionnel),GV–NC,2,87.90000000000001,12.8,5.51,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/Anmare.pdf
+28,3.67k DWT family,Anmiro,NC (navire conventionnel),GV–NC,2,87.90000000000001,12.8,5.51,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/Anmiro.pdf
+29,3.817k DWT family,Breb Timber,NC (navire conventionnel),GV–NC,2,88.59999999999999,12.67,5.42,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/Breb%20Timber.pdf
+30,3.817k DWT family,Breb Trader,NC (navire conventionnel),GV–NC,2,88.59999999999999,12.67,5.42,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/Breb%20Timber.pdf
+31,ECO 9.1k family,ECO Cheyenne,NC (navire conventionnel),GV–NC,3,132.78,18.85,7,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Cheyenne.pdf
+32,ECO 9.1k family,ECO Elin,NC (navire conventionnel),GV–NC,3,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Elin.pdf
+33,ECO 9.1k family,ECO Marianne,NC (navire conventionnel),GV–NC,3,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Marianne.pdf
+34,ECO 9.1k family,ECO Talent,NC (navire conventionnel),GV–NC,3,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Talent.pdf
+35,ECO 9.1k family,ECO Titan,NC (navire conventionnel),GV–NC,3,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Titan.pdf
+36,ECO 9.1k family,ECO Treasure,NC (navire conventionnel),GV–NC,3,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Treasure.pdf
+37,ECO 9.1k family,ECO Trinity,NC (navire conventionnel),GV–NC,3,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Trinity.pdf
+38,ECO 9.1k family,ECO Triumph,NC (navire conventionnel),GV–NC,3,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Triumph.pdf
+39,ECO 9.1k family,ECO Trophy,NC (navire conventionnel),GV–NC,3,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Trophy.pdf
+40,ECO 9.1k family,ECO Trust,NC (navire conventionnel),GV–NC,3,132.78,18.85,7,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/ECO%20Trust.pdf
+41,Pride,Pride,NC (navire conventionnel),GV–NC,2,88.47,11.35,4.94,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/briese_pdf/pride.pdf

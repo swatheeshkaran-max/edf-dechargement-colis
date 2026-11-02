@@ -1,0 +1,57 @@
+﻿N°,Famille,Nom du bateau,Type de navire,Classe,Nombre max de colis,Longueur (m),Largeur (m),Tirant d’eau (m),Faisabilité de grue (Oui/Non),Note,Nombre max de colis après limite de grue,Deux grues nécessaires (Oui/Non),Priorité,Navire sœur ? (Oui/Non),Lien PDF
+1,VERTOM MERIDIAAN,VERTOM MERIDIAAN,NC (navire conventionnel),CE–NC,4,128.45,15.87,6.8,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20MERIDIAAN.pdf
+2,VERTOM JOY,VERTOM JOY,NB (navire bigué),CE–NB,4,128.29,18.81,8.029999999999999,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20JOY.pdf
+3,118.6 m family,VERTOM ANETTE,NC (navire conventionnel),PP–NC,,118.6,14.3,6.23,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20ANETTE.pdf
+4,118.6 m family,VERTOM ANNE MARIT,NC (navire conventionnel),PP–NC,,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20ANNE%20MARIT.pdf
+5,118.6 m family,VERTOM CYTA,NC (navire conventionnel),PP–NC,,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20CYTA.pdf
+6,118.6 m family,VERTOM JOYCE,NC (navire conventionnel),PP–NC,,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20JOYCE.pdf
+7,118.6 m family,VERTOM LISA,NC (navire conventionnel),PP–NC,,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20LISA.pdf
+8,118.6 m family,VERTOM PATTY,NC (navire conventionnel),PP–NC,,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20PATTY.pdf
+9,118.6 m family,VERTOM QUINA,NC (navire conventionnel),PP–NC,,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20QUINA.pdf
+10,118.6 m family,VERTOM TOMMA,NC (navire conventionnel),PP–NC,,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20TOMMA.pdf
+11,118.6 m family,VERTOM TULA,NC (navire conventionnel),PP–NC,,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20TULA.pdf
+12,118.6 m family,VERTOM WILLEMIJN,NC (navire conventionnel),PP–NC,,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20WILLEMIJN.pdf
+13,118.9 m family,PENHAR,NC (navire conventionnel),PP–NC,,118.9,13.35,6.08,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/PENHAR.pdf
+14,118.9 m family,PERFECT,NC (navire conventionnel),PP–NC,,118.9,13.35,6.08,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/PERFECT.pdf
+15,118.9 m family,PROGRESS,NC (navire conventionnel),PP–NC,,118.9,13.35,6.08,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/PROGRESS.pdf
+16,118.9 m family,PROUD,NC (navire conventionnel),PP–NC,,118.9,13.35,6.08,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/PROUD.pdf
+17,88.6 m gearless single-decker family,BEAUMAGIC,NC (navire conventionnel),PP–NC,,88.59999999999999,12.5,5.4,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/BEAUMAGIC.pdf
+18,88.6 m gearless single-decker family,BEAUMAIDEN,NC (navire conventionnel),PP–NC,,88.59999999999999,12.5,5.4,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/BEAUMAIDEN.pdf
+19,89.95 m BoxType family,CLAIRE,NC (navire conventionnel),PP–NC,,89.95,14.4,6.23,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/CLAIRE.pdf
+20,89.95 m BoxType family,DINTELDIJK,NC (navire conventionnel),PP–NC,,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/DINTELDIJK.pdf
+21,89.95 m BoxType family,HUNZEDIJK,NC (navire conventionnel),PP–NC,,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/HUNZEDIJK.pdf
+22,89.95 m BoxType family,SCHELDEDIJK,NC (navire conventionnel),PP–NC,,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/SCHELDEDIJK.pdf
+23,89.95 m BoxType family,VALÉRIE,NC (navire conventionnel),PP–NC,,89.95,14.4,6.1,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VAL_RIE.pdf
+24,89.95 m BoxType family,VEENDIJK,NC (navire conventionnel),PP–NC,,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VEENDIJK.pdf
+25,89.95 m BoxType family,VELSERDIJK,NC (navire conventionnel),PP–NC,,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VELSERDIJK.pdf
+26,89.95 m BoxType family,VERTOM PORTO,NC (navire conventionnel),PP–NC,,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20PORTO.pdf
+27,89.95 m BoxType family,VERTOM RINEIA,NC (navire conventionnel),PP–NC,,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20RINEIA.pdf
+28,89.95 m BoxType family,WAALDIJK,NC (navire conventionnel),PP–NC,,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/WAALDIJK.pdf
+29,106 m C family,KAREN C,NC (navire conventionnel),GV–NC,2,106.07,15.5,6.63,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/KAREN%20C.pdf
+30,106 m C family,KARINA C,NC (navire conventionnel),GV–NC,2,106.07,15.5,6.63,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/KARINA%20C.pdf
+31,106 m C family,KARLA C,NC (navire conventionnel),GV–NC,2,106.07,15.5,6.63,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/KARLA%20C.pdf
+32,106 m C family,KATE C,NC (navire conventionnel),GV–NC,2,106.07,15.5,6.63,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/KATE%20C.pdf
+33,106 m C family,KATHY C,NC (navire conventionnel),GV–NC,2,106.07,15.5,6.63,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/KATHY%20C.pdf
+34,106 m C family,KELLY C,NC (navire conventionnel),GV–NC,2,106.07,15.5,6.63,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/KELLY%20C.pdf
+35,106 m C family,KIKKI C,NC (navire conventionnel),GV–NC,2,106.07,15.5,6.63,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/KIKKI%20C.pdf
+36,106 m C family,KRISTIN C,NC (navire conventionnel),GV–NC,2,106.07,15.5,6.63,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/KRISTIN%20C.pdf
+37,118.6 m family,VERTOM ANETTE,NC (navire conventionnel),GV–NC,2,118.6,14.3,6.23,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20ANETTE.pdf
+38,118.6 m family,VERTOM ANNE MARIT,NC (navire conventionnel),GV–NC,2,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20ANNE%20MARIT.pdf
+39,118.6 m family,VERTOM CYTA,NC (navire conventionnel),GV–NC,2,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20CYTA.pdf
+40,118.6 m family,VERTOM JOYCE,NC (navire conventionnel),GV–NC,2,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20JOYCE.pdf
+41,118.6 m family,VERTOM LISA,NC (navire conventionnel),GV–NC,2,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20LISA.pdf
+42,118.6 m family,VERTOM PATTY,NC (navire conventionnel),GV–NC,2,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20PATTY.pdf
+43,118.6 m family,VERTOM QUINA,NC (navire conventionnel),GV–NC,2,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20QUINA.pdf
+44,118.6 m family,VERTOM TOMMA,NC (navire conventionnel),GV–NC,2,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20TOMMA.pdf
+45,118.6 m family,VERTOM TULA,NC (navire conventionnel),GV–NC,2,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20TULA.pdf
+46,118.6 m family,VERTOM WILLEMIJN,NC (navire conventionnel),GV–NC,2,118.6,14.3,6.23,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20WILLEMIJN.pdf
+47,89.95 m BoxType family,CLAIRE,NC (navire conventionnel),GV–NC,2,89.95,14.4,6.23,,,,,,Non,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/CLAIRE.pdf
+48,89.95 m BoxType family,DINTELDIJK,NC (navire conventionnel),GV–NC,2,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/DINTELDIJK.pdf
+49,89.95 m BoxType family,HUNZEDIJK,NC (navire conventionnel),GV–NC,2,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/HUNZEDIJK.pdf
+50,89.95 m BoxType family,SCHELDEDIJK,NC (navire conventionnel),GV–NC,2,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/SCHELDEDIJK.pdf
+51,89.95 m BoxType family,VALÉRIE,NC (navire conventionnel),GV–NC,2,89.95,14.4,6.1,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VAL_RIE.pdf
+52,89.95 m BoxType family,VEENDIJK,NC (navire conventionnel),GV–NC,2,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VEENDIJK.pdf
+53,89.95 m BoxType family,VELSERDIJK,NC (navire conventionnel),GV–NC,2,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VELSERDIJK.pdf
+54,89.95 m BoxType family,VERTOM PORTO,NC (navire conventionnel),GV–NC,2,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20PORTO.pdf
+55,89.95 m BoxType family,VERTOM RINEIA,NC (navire conventionnel),GV–NC,2,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/VERTOM%20RINEIA.pdf
+56,89.95 m BoxType family,WAALDIJK,NC (navire conventionnel),GV–NC,2,89.95,14.4,6.22,,,,,,Oui,https://github.com/swatheeshkaran-max/edf-dechargement-colis/blob/main/vertom_pdf/WAALDIJK.pdf
