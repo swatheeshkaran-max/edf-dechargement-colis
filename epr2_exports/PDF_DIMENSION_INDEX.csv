@@ -1,0 +1,112 @@
+pdf_path,source_LOA_m,source_beam_m,hold_LxWxH,hatch_LxW,source_draft_m,document_type,parse_caution
+briese_pdf/Anmare.pdf,87.9,12.8,,,5.51,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Anmiro.pdf,87.9,12.8,,,5.51,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Anna.pdf,125.79,14.4,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Aramis.pdf,89.99,14.8,,,6.65,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Breb Timber.pdf,88.6,12.67,,,5.42,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Breb Trader.pdf,88.6,12.67,,,5.42,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Constance.pdf,86.0,12.4,,,5.3,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Costamar.pdf,99.48,13.43,,,6.15,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/ECO Cheyenne.pdf,132.78,18.85,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/ECO Elin.pdf,132.78,18.85,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/ECO Marianne.pdf,132.78,18.85,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/ECO Talent.pdf,132.78,18.85,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/ECO Titan.pdf,132.78,18.85,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/ECO Treasure.pdf,132.78,18.85,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/ECO Trinity.pdf,132.78,18.85,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/ECO Triumph.pdf,132.78,18.85,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/ECO Trophy.pdf,132.78,18.85,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/ECO Trust.pdf,132.78,18.85,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Hohe Bank.pdf,86.0,12.4,,,5.3,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Johannes.pdf,89.99,14.8,,,6.65,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Lunamar.pdf,99.48,13.43,,,6.15,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Mila.pdf,128.45,16.5,,,7.0,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Monika.pdf,89.99,14.8,,,6.65,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Ostbense.pdf,125.79,14.4,,,,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Schillig.pdf,86.0,12.4,,,5.3,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Schillplate.pdf,86.0,12.4,,,5.3,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/Treville.pdf,89.99,14.8,,,6.65,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/mittelplate.pdf,86.0,12.4,,,5.3,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+briese_pdf/pride.pdf,88.47,11.35,,,4.94,briese_pdf,Hold and hatch dimensions not explicitly verified from PDF machine text; GA image review needed
+casper_pdf/ELENA_L.pdf,94.96,13.17,67.54x11.0x8.45,67.54x11.0,4000.0,casper_pdf,Published hatch dimension but exact longitudinal offset and usable clearance remain unverified
+casper_pdf/HELEN_ANNA.pdf,87.9,12.8,56.55x10.02x8.1,56.55x10.02,5.59,casper_pdf,Published hatch dimension but exact longitudinal offset and usable clearance remain unverified
+casper_pdf/HELGA_G.pdf,89.7,12.51,62.52x10.02x8.43,62.52x10.3,5.49,casper_pdf,Published hatch dimension but exact longitudinal offset and usable clearance remain unverified
+casper_pdf/MARAS.pdf,94.96,13.17,67.54x11.0x8.45,67.54x11.0,6.2,casper_pdf,Published hatch dimension but exact longitudinal offset and usable clearance remain unverified
+casper_pdf/MISJE_ROSE.pdf,89.96,,56.6x12.8x9.8,56.6x12.8,6.55,casper_pdf,Published hatch dimension but exact longitudinal offset and usable clearance remain unverified
+casper_pdf/NIKLAS.pdf,87.9,12.8,56.55x10.02x8.1,56.55x10.02,5.59,casper_pdf,Published hatch dimension but exact longitudinal offset and usable clearance remain unverified
+casper_pdf/VENTURA.pdf,88.6,12.5,61.57x10.12x8.43,61.57x10.12,5.42,casper_pdf,Published hatch dimension but exact longitudinal offset and usable clearance remain unverified
+casper_pdf/VERENA.pdf,88.6,12.5,61.66x10.12x8.43,61.66x12.12,5.47,casper_pdf,Published hatch dimension but exact longitudinal offset and usable clearance remain unverified
+casper_pdf/VESPER.pdf,88.6,12.52,61.8x10.12x8.43,61.8x10.12,5.42,casper_pdf,Published hatch dimension but exact longitudinal offset and usable clearance remain unverified
+casper_pdf/VITALITY.pdf,89.98,15.2,61.5x12.65x7.9,60.0x12.65,5.1,casper_pdf,Published hatch dimension but exact longitudinal offset and usable clearance remain unverified
+sal_pdf/SAL_2026_Fleetlist_2026-09-30.pdf,,,,,,sal_pdf,SAL fleet list is a multi-vessel summary; individual record must be matched to the correct family
+vertom_pdf/ABERDEEN.pdf,88.3,12.4,25.2x10.1x7.77;31.8x10.1x7.77,,5.14,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/ANITA.pdf,87.5,11.3,55.7x9.3x6.5,,4.15,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/ANNA.pdf,89.98,14.0,62.4x11.5x8.37,,6.18,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/ANTWERP.pdf,88.24,12.4,25.2x10.1x7.77;31.8x10.1x7.77,,5.14,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/AYR.pdf,88.3,12.4,25.2x10.1x7.77;31.8x10.1x7.77,,5.14,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/BEAUMAGIC.pdf,88.6,12.5,62.52x10.1x8.43,,5.4,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/BEAUMAIDEN.pdf,88.6,12.5,62.52x10.1x8.43,,5.4,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/BEAUTRADER.pdf,118.14,15.9,32.6x13.2x9.75;51.1x13.2x9.75,,6.65,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/BEAUTRIDENT.pdf,118.4,15.9,32.66x13.2x9.7;51.12x13.2x9.7,,6.65,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/BEAUTRITON.pdf,118.14,15.9,32.66x13.2x9.7;51.1x13.2x9.7,,6.65,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/CELINE.pdf,99.39,13.35,61.8x11.2x9.6,,6.15,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/CLAIRE.pdf,89.95,14.4,62.3x11.7x8.12,,6.23,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/DINTELDIJK.pdf,89.95,14.4,62.3x11.7x8.12,,6.22,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/EDZARD CIRKSENA.pdf,88.63,12.4,25.2x10.1x7.77;31.8x10.1x7.77,,5.15,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/ELENI K.pdf,89.97,15.4,53.4x12.6x8.4,,6.13,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/GEORGIOS ALEXIOS.pdf,89.96,15.41,54.6x12.6x8.4,,6.13,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/GRETA C.pdf,118.83,14.3,36.35x11.8x9.19;48.6x11.8x9.19,,6.5,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/HUNZEDIJK.pdf,89.95,14.4,62.3x11.7x8.12,,6.22,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/IBERICA HAV.pdf,87.92,11.31,,,3.7,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/JILL C.pdf,99.0,14.3,67.1x11.8x9.19,,6.5,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/KAREN C.pdf,106.07,15.5,33.8x11.7x9.3;44.1x11.7x9.3,,6.63,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/KARINA C.pdf,106.07,15.5,33.8x11.7x9.3;44.1x11.7x9.3,,6.63,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/KARLA C.pdf,106.07,15.5,33.8x11.7x9.3;44.1x11.7x9.3,,6.63,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/KATE C.pdf,106.07,15.5,33.8x11.7x9.3;44.1x11.7x9.3,,6.63,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/KATHY C.pdf,106.07,15.5,33.8x11.7x9.3;44.1x11.7x9.3,,6.63,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/KELLY C.pdf,106.07,15.5,33.8x11.7x9.3;44.1x11.7x9.3,,6.63,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/KIKKI C.pdf,106.07,15.5,33.8x11.7x9.3;44.1x11.7x9.3,,6.63,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/KRISTIN C.pdf,106.07,15.5,33.8x11.7x9.3;44.1x11.7x9.3,,6.63,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/LADY CLARA.pdf,88.24,12.4,25.2x10.1x7.77;31.8x10.1x7.77,,5.14,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/LADY MARY.pdf,88.3,12.4,25.2x10.1x7.77;31.8x10.1x7.77,,5.14,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/MAXIME.pdf,99.39,13.35,61.8x11.2x9.6,,6.15,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/MERLE.pdf,99.39,13.35,61.8x11.2x9.6,,6.15,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/MINKA C.pdf,99.6,14.5,33.4x11.7x8.5;38.1x11.7x8.5,,6.2,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/MPP CLEO.pdf,100.71,15.2,27.2x12.78x8.33;31.75x12.78x8.33,,5.63,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/NEUDORF.pdf,82.46,12.5,57.5x10.1x6.8,,4.46,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/OCEAN TRANGA.pdf,118.14,15.9,32.66x13.2x9.68;53.52x13.2x9.68,,7.2,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/PENHAR.pdf,118.9,13.35,18.7x11.2x9.0;59.6x11.2x9.0,,6.08,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/PERFECT.pdf,118.9,13.35,18.7x11.2x9.0;59.6x11.2x9.0,,6.08,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/PROGRESS.pdf,118.9,13.35,18.7x11.2x9.0;59.6x11.2x9.0,,6.08,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/PROUD.pdf,118.9,13.35,18.7x11.2x9.0;59.6x11.2x9.0,,6.08,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/RADBOD.pdf,93.5,14.4,61.6x11.8x7.49,,5.49,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/SCHELDEDIJK.pdf,89.95,14.4,62.3x11.7x8.12,,6.22,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/SILKE.pdf,99.39,13.35,61.8x11.2x9.6,,6.15,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/SKRETTING GRO.pdf,99.0,14.3,67.9x11.8x9.19,,6.5,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/TINA C.pdf,99.6,14.5,33.4x11.7x8.5;38.1x11.7x8.5,,6.2,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VAL_RIE.pdf,89.95,14.4,62.3x11.7x8.1,,6.1,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VEENDIJK.pdf,89.95,14.4,62.3x11.7x8.12,,6.22,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VELSERDIJK.pdf,89.95,14.4,62.3x11.7x8.12,,6.22,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM ANETTE.pdf,118.6,14.3,36.35x11.8x9.19;48.6x11.8x9.19,,6.23,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM ANNE MARIT.pdf,118.6,14.3,36.35x11.8x9.19;48.6x11.8x9.19,,6.23,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM CYTA.pdf,118.6,14.3,36.35x11.8x9.19,,6.23,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM EVA.pdf,88.3,12.4,25.2x10.1x7.77;31.8x10.1x7.77,,5.14,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM ISA.pdf,88.3,12.4,25.2x10.1x7.77;31.8x10.1x7.77,,5.14,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM JOSE.pdf,101.15,14.4,73.5x11.7x8.12,,6.15,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM JOY.pdf,128.29,18.81,82.5x15.2x11.79,,8.03,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM JOYCE.pdf,118.6,14.3,36.35x11.8x9.19;48.6x11.8x9.19,,6.23,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM KARIANNE.pdf,88.3,12.4,25.2x10.1x7.77;31.8x10.1x7.77,,5.14,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM LISA.pdf,118.6,14.3,36.35x11.8x9.19;48.6x11.8x9.19,,6.23,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM MARJOLIJN.pdf,88.3,12.4,25.2x10.1x7.77;31.8x10.1x7.77,,5.14,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM MERIDIAAN.pdf,128.45,15.87,25.5x12.7x10.53;61.6x12.7x10.53,,6.8,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM PATTY.pdf,118.6,14.3,36.35x11.8x9.19;48.6x11.8x9.19,,6.23,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM PORTO.pdf,89.95,14.4,62.3x11.7x8.12,,6.22,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM QUINA.pdf,118.6,14.3,36.35x11.8x9.19;48.6x11.8x9.19,,6.23,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM RIAN.pdf,99.0,14.3,67.9x11.8x9.19,,6.5,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM RINEIA.pdf,89.95,14.4,62.3x11.7x8.12,,6.22,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM RITA.pdf,99.0,14.3,67.1x11.8x9.19,,6.5,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM THEA.pdf,100.71,15.2,27.2x12.78x8.33;31.75x12.78x8.33,,5.63,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM TOMMA.pdf,118.6,14.3,36.35x11.8x9.19,,6.23,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM TULA.pdf,118.6,14.3,36.35x11.8x9.19;48.6x11.8x9.19,,6.23,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/VERTOM WILLEMIJN.pdf,118.6,14.3,36.35x11.8x9.19;48.6x11.8x9.19,,6.23,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
+vertom_pdf/WAALDIJK.pdf,89.95,14.4,62.3x11.7x8.12,,6.22,vertom_pdf,Hold dimensions are not necessarily hatch opening dimensions; exact hatch positions unavailable
