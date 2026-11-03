@@ -2,7 +2,7 @@
 """Read-only PDF evidence extraction for EPR2 dimension verification.
 Creates compact source excerpts; does not alter PDFs or source workbooks.
 """
-import csv, pathlib, subprocess, re, json
+import csv, pathlib, re, json, fitz
 ROOT=pathlib.Path(__file__).resolve().parent.parent
 OUT=ROOT/"epr2_exports"
 OUT.mkdir(exist_ok=True)
@@ -13,8 +13,8 @@ with (OUT/"PDF_TECHNICAL_EVIDENCE.csv").open("w",newline="",encoding="utf-8") as
  w.writerow(["PDF path","PDF bytes","Extracted characters","First page text / labels","Dimension-related excerpts","Machine text result"])
  for pdf in pdfs:
   try:
-   result=subprocess.run(["pdftotext","-f","1","-l","2","-layout",str(pdf),"-"],capture_output=True,timeout=50)
-   tx=result.stdout.decode("utf-8","replace")
+   doc=fitz.open(str(pdf))
+   tx="\n".join(doc[i].get_text("text",sort=True) for i in range(min(3,len(doc))))
    lines=[re.sub(r"\s+"," ",s).strip() for s in tx.splitlines()]
    lines=[s for s in lines if s]
    snippets=[];seen=set()
