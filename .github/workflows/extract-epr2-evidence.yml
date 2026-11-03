@@ -1,0 +1,24 @@
+name: EPR2 PDF specification evidence
+on:
+  push:
+    paths:
+      - 'scripts/extract_pdf_technical_evidence.py'
+      - '.github/workflows/extract-epr2-evidence.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extract vessel technical PDF snippets
+        run: |
+          python scripts/extract_pdf_technical_evidence.py
+      - name: Commit verification evidence CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add epr2_exports/PDF_TECHNICAL_EVIDENCE.csv
+          git diff --cached --quiet || git commit -m "Record vessel specification evidence for EPR2 validation"
+          git push
